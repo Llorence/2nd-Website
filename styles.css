@@ -1,0 +1,98 @@
+body {
+	font-family: Verdana;
+	background-image: url(http://sfwallpaper.com/images/super-mario-galaxy-background-26.jpg);
+	text-align: center;
+	position: relative;
+    min-height: 100vh;
+}
+
+#differentpages {
+	background-color: black;
+}
+
+#homeid {
+	font-size: 150%;
+	color: red;
+}
+
+#galleryid {
+	font-size: 150%;
+	color: green;
+	padding: 10px 100px 5px 100px;
+}
+
+#registerid {
+	font-size: 150%;
+	color: yellow;
+	padding: 10px 100px 5px 100px;
+}
+
+#imagesid {
+	font-size: 150%;
+	color: yellow;
+}
+
+h1 {
+	color: red;
+	text-align: center;
+}
+
+h2 {
+	color: green;
+	text-align: center;
+	cursor: pointer;
+	border: 5px;
+}
+
+div {
+	background-color: black;
+	border: 5px solid green;
+    border-radius: 1em;
+	margin-right: 20em;
+	margin-left: 20em;
+	line-height: 20px;
+	font-style: italic;
+	margin-bottom: 2em;
+}
+
+#formdiv {
+	margin-top: 5em;
+	margin-bottom: 5em;
+	padding-top: 5em;
+	padding-bottom: 5em;
+}
+
+p {
+	color: green;
+	text-align: center;
+}
+
+li {
+	color: green;
+	list-style: none;
+	display: inline-block;
+}
+
+form {
+	color: green;
+}
+
+footer {
+	clear: both;
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 2.5rem;
+}
+
+#footerid {
+	color: green;
+	background-color: black;
+	border-radius: 1em;
+}
+
+hr {
+	border: 2px solid green;
+	margin: 0px;
+}
